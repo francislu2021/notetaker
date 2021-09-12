@@ -1,5 +1,8 @@
 # notetaker
 
+## Deploying URL:
+https://evening-citadel-69517.herokuapp.com
+
 User Story
 AS A small business owner
 I WANT to be able to write and save notes
